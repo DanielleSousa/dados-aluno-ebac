@@ -1,11 +1,17 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Danielle
+-Profissão: Analista de Atendimento
+-Cidade: Barueri
+-O que faz nas horas vagas: Gosto de ver séries, filmes, ouvir posdcats e 
+assis vídeos no YouTube.
+ Também gosto de passar o tempo em familia (churrascos), e praticar pilates
+-Feedback sobre o curso Qualidade de Software: Estou adorando o curso, muito 
+explicativo e detalhado.
+-Feedback sobre a plataforma de estudo da EBAC: Gosto muito 
+da plataforma, acho ela muito intuitiva, porém falta 
+um espaço para que os alunos possam interagir e trocar 
+experiências dentro da plataforma.
 
 Obrigado!!!
 
